@@ -1,0 +1,8 @@
+{
+  "prompt": "Bauhaus exhibition poster 1925 Dessau. Title text exactly: k-means clustering in all-lowercase geometric sans-serif only, no capitals anywhere. Three clusters of small solid circles: cluster A flat red, cluster B flat yellow, cluster C flat blue. One larger bold circle centroid per cluster. Thin straight black lines connecting data points to centroid. Strict asymmetric grid layout. Pure white background. Black horizontal dividing rule below title. Zero gradients, zero shadows, zero shading, zero decorative elements, zero serif fonts, zero uppercase letters. Flat 1920s lithographic print. Small text iteration 3 bottom-left lowercase. Small text Dessau 1925 top-right.",
+  "model": "Ideogram 2",
+  "concept": "K-Means Clustering",
+  "tradition_name": "Bauhaus Graphic Design",
+  "tradition_period": "1919–1933",
+  "tradition_approach": "Primary color triads (red/yellow/blue) for cluster identity; geometric circles as data points and centroids; asymmetric grid composition; all-lowercase sans-serif labels; flat unmodulated color with zero shading."
+}
