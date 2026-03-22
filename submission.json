@@ -1,0 +1,7 @@
+{
+  "prompt": "Painterly impressionistic artwork of Asia at night from above. India and China blazing with warm amber gold lights radiating outward like fire on a dark canvas. Southeast Asia glowing like embers. Deep indigo black oceans. Mood of quiet miracle and hope. Absolutely no borders, no country lines, no text, no labels, no charts, no photorealistic satellite imagery. Emotional, painterly, impressionistic style only.",
+  "model": "Flux Dev - Leonardo.ai",
+  "dataset_name": "World Bank Poverty and Inequality Platform (PIP)",
+  "dataset_url": "https://pip.worldbank.org",
+  "insight": "Since 1990, approximately 1.5 billion people have escaped extreme poverty — an average of 118,000 people every day — driven primarily by rising incomes across East and South Asia."
+}
