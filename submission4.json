@@ -1,0 +1,6 @@
+{
+  "paradox": "The Friendship Paradox",
+  "model": "Imagen 3 (Google Gemini)",
+  "prompt": "Surreal oil painting. An impossible Escher-like architectural maze seen from above. Human silhouettes stand in groups on tiered platforms and terraces. Every small group of 2 or 3 figures can clearly see a larger group of 8 or 10 on the next platform. That larger group can see an even larger group beyond them. But the largest platform is always further away, always out of reach, and when you look closely it too is looking toward something larger still. No figure is ever on the biggest platform. Every group is simultaneously a small group next to a bigger group. The hierarchy has no top. Cold blue-gray palette, diffused foggy light, painterly, melancholic, dreamlike depth. No text, no numbers, no arrows, no diagrams, no symbols.",
+  "visual_logic": "Every group stands adjacent to a larger group, which itself faces something larger still. No figure reaches the biggest platform. The hierarchy has no top — everyone is simultaneously peripheral."
+}
