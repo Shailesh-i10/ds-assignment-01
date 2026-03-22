@@ -1,0 +1,6 @@
+{
+  "prompt": "A tailor's workshop, warm lighting. On the left: a wooden mannequin with a visibly crooked spine, hunched back, and one shoulder dramatically higher than the other. A dark suit jacket is molded to it with obsessive precision, following every deformity perfectly. On the right: a normal healthy man wearing the exact same suit — it pulls grotesquely at the shoulders, bunches at the back, one sleeve too long, fabric straining in all wrong places. The man looks uncomfortable and the suit hangs terribly on him. Photorealistic, tailor workshop background with fabric rolls and scissors. No text, no labels.",
+  "model": "Gemini (Google Gemini Image Generation)",
+  "concept": "overfitting",
+  "metaphor": "A suit molded perfectly to a deformed mannequin fails grotesquely on a normal person — the model memorized training quirks and cannot generalize to new data."
+}
